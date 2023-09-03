@@ -1,19 +1,25 @@
 # TSP-Metaheuristics
 
 
-Solving the TSP problem using Bat Algorithm and Red deer Algorithm
-Data Set:
+Solving the TSP problem using Bat Algorithm and Red deer Algorithm <br />
+Data Set: <br />
 A dataset containing the coordinates of 4663 different locations in Canada
-
+<br />
 
 LINK : https://www.math.uwaterloo.ca/tsp/world/ca4663.tsp
-
+<br />
 COMMENT : 4663 locations in Canada
+<br />
 COMMENT : Derived from National Imagery and Mapping Agency data
+<br />
 DIMENSION : 4663
+<br />
 EDGE_WEIGHT_TYPE : EUC_2D
+<br />
 Examples:
+<br />
 NODE COORD_SECTION
+<br />
 1 41800.0000 82650.0000
 2 41966.6667 82533.3333
 3 41983.3333 82933.3333
@@ -34,27 +40,40 @@ NODE COORD_SECTION
 18 42316.6667 82850.0000
 19 42316.6667 82900.0000
 . ……… ..       .. …………………
-
+<br />
 Bat Algorithm:
+<br />
 With 100 iterations:
- ![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/b2aebf59-3cb4-4fd6-80a7-1faeec4611ae)
-![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/e36ac93f-ce29-4d65-9818-90248ee89dc2)
+<br />
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/b7530e3e-0b27-44f5-ac5b-c24dd455726d)
+
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/a0978d9d-a6d5-43a4-a9db-285c844a14e4)
+
 
  
 
 
-
+<br />
 Bat Algorithm:
+<br />
 With 1000 iterations:
+<br />
 It achieves better results:
- ![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/1162fda7-28c5-45d3-b717-f20642447fd1)
-![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/8723f0ce-7df9-4051-bb39-158dc2321c4a)
+<br />
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/aa6d858e-4561-4039-b634-0b0e08351a29)
 
- 
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/0ee9f6f0-0b0d-4ba3-b610-761e6ba305f9)
+
+
+ <br />
 Red Deer Algorithm:
+<br />
 With 100 iterations:
- ![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/026b7505-6a37-4459-af41-87f637ae8495)
-![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/267463ca-2167-4ffb-8925-a98a691b058e)
-![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/87775f5c-6d69-4d22-9b67-276e4ce423d2)
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/015e67f1-8bc9-45ec-9d1e-da612de0a48e)
+
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/6b91f581-36c7-455d-b245-0837e5efd2d1)
+
+![image](https://github.com/layafakher/TSP-Metaheuristics/assets/62253882/ae2c16dd-d780-42d1-a468-de716011d9fa)
+
 
 
